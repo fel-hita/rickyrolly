@@ -9,6 +9,6 @@ nohup open /tmp/felhita/Banana.app > /dev/null
 clear
 history -c
 
-killall iTerm
-killall Terminal
-killall iTerm2
+//killall iTerm
+//killall Terminal
+//killall iTerm2
